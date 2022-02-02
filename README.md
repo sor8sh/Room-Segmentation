@@ -1,5 +1,7 @@
 # Automatic Room Segmentation
 
+> This repository is made for the Computer Vision course project - Jan 2019.
+
 Detecting rooms of a floor plan.
 
 - [Algorithm](#algorithm)
