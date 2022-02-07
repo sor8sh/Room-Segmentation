@@ -2,6 +2,12 @@
 
 > This repository is made for the Computer Vision course project - Jan 2019.
 
+**Dependencies:**
+- [OpenCV](https://pypi.org/project/opencv-python/)
+- [NumPy](https://numpy.org/)
+
+---
+
 Detecting rooms of a floor plan.
 
 - [Algorithm](#algorithm)
